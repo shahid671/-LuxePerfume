@@ -1,0 +1,8 @@
+{
+  "name": "L'Aura Luxe - AI Perfumery",
+  "description": "An ultra-premium fragrance boutique featuring an AI-powered Scent Sommelier for personalized olfactory journeys.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
